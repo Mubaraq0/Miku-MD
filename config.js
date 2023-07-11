@@ -15,7 +15,7 @@ global.packname = "Hinata"
 global.author = "❤💚💙"
 global.OwnerName = "Muba"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
+global.SupportGroupLink = "https://chat.whatsapp.com/IEJrKqgWuEyEycPEifGU1C"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
@@ -31,10 +31,10 @@ global.websitex = "https://github.com/FantoX001"
 global.lolhuman = "KaysaS"
 
 
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg")
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg")
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg")
+global.BotLogo = fs.readFileSync("https://telegra.ph/file/694874c932e08a1bac16f.jpg")
+global.Thumb = fs.readFileSync("https://telegra.ph/file/694874c932e08a1bac16f.jpg")
+global.Thumb1 = fs.readFileSync("https://telegra.ph/file/694874c932e08a1bac16f.jpg")
+global.ErrorPic = fs.readFileSync("https://telegra.ph/file/694874c932e08a1bac16f.jpg")
 
 
 global.ntilinkytvid = []
